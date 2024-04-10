@@ -1,5 +1,5 @@
 ### GitHub noob
-Frankly I find it difficult to use, but all the cool kids are using it, so will give it a try.
+General public repo for testing and learning GitHub
 
 <!--
 **idfarmboy/idfarmboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
