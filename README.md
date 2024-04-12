@@ -1,6 +1,5 @@
 ### GitHub noob
 General public repo for testing and learning GitHub
-- 🌱 I’m currently learning ...
 
 <!--
 **idfarmboy/pubgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
