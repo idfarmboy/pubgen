@@ -1,0 +1,29 @@
+Micron Confidential
+
+Micron’s 24GB 8H HBM3E will be part of NVIDIA
+H200 Tensor Core GPUs, which will begin shipping in the second calendar quarter of 2024. This milestone positions Micron at the forefront of the
+industry, empowering artificial intelligence (AI) solutions with HBM3E’s industry-leading performance and energy efficiency.
+HBM3E: Fueling the AI Revolution
+As the demand for AI continues to surge, the need for memory solutions to keep pace with expanded workloads is critical. Micron’s HBM3E solution
+addresses this challenge head-on with:
+Superior Performance: With pin speed greater than 9.2 gigabits per second (Gb/s), Micron’s HBM3E delivers more than
+1.2 terabytes per second (TB/s) of memory bandwidth, enabling lightning-fast data access for AI accelerators,
+supercomputers, and data centers.
+Exceptional Efficiency: Micron’s HBM3E leads the industry with ~30% lower power consumption compared to
+competitive offerings. To support increasing demand and usage of AI, HBM3E offers maximum throughput with the lowest
+levels of power consumption to improve important data center operational expense metrics.
+Seamless Scalability: With 24 GB of capacity today, Micron’s HBM3E allows data centers to seamlessly scale their AI
+applications. Whether for training massive neural networks or accelerating inferencing tasks, Micron’s solution provides the
+necessary memory bandwidth.
+“Micron is delivering a trifecta with this HBM3E milestone: time-to-market leadership, best-in-class industry performance, and a differentiated power
+efficiency profile,” said Sumit Sadana, executive vice president and chief business officer at Micron Technology. “AI workloads are heavily reliant on
+memory bandwidth and capacity, and Micron is very well-positioned to support the significant AI growth ahead through our industry-leading HBM3E
+and HBM4 roadmap, as well as our full portfolio of DRAM and NAND solutions for AI applications.”
+Micron developed this industry-leading HBM3E design using its 1-beta technology, advanced through-silicon via (TSV), and other innovations that
+enable a differentiated packaging solution. Micron, a proven leader in memory for 2.5D/3D-stacking and advanced packaging technologies, is proud to
+be a partner in TSMC’s 3DFabric Alliance and to help shape the future of semiconductor and system innovations.
+Micron is also extending its leadership with the sampling of 36GB 12-High HBM3E, which is set to deliver greater than 1.2 TB/s performance and
+superior energy efficiency compared to competitive solutions, in March 2024. Micron is a sponsor at NVIDIA GTC, a global AI conference starting
+March 18, where the company will share more about its industry-leading AI memory portfolio and roadmaps.
+
+Micron Confidential
